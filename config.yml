@@ -34,10 +34,10 @@ email:
   exception:
     technical:
       notification: "true"
-      emailList: "email1@gmail.com, email2@gmail.com"
+      emailList: "email1@threatbook.com, email2@threatbook.com"
     business:
       notification: "true"
-      emailList: "email1@gmail.com, email2@gmail.com"
+      emailList: "email1@threatbook.com, email2@threatbook.com"
 
 ###################################################
 # GLOBAL ERROR HANDLER CONFIGURATION PROPERTIES
